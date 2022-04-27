@@ -1,0 +1,6 @@
+# exclude MacOS ds_store files
+.DS_Store*
+
+# exclude anything tagged with "NOTGITTRACKED"
+
+*NOTGITTRACKED*

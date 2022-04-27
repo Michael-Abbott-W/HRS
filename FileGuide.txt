@@ -1,0 +1,15 @@
+Author: Michael Abbott
+Project: ProjectTemplate
+Date last updated: Aug 27, 2021
+Description:  This is the file guide for my template project.
+              Use the "tree" command in terminal for the project folder and copy it here.
+              Below the tree, list each element (folders and files) of the tree in the order they appears in the tree.
+              Place an indented description beneath each of these elements.
+              
+*Place Tree Here*                         
+
+AddUnTrackedMaterial.txt
+  Explains how to add the necessary materials that are not tracked by git.
+FileGuide.txt
+README.txt
+  
